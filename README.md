@@ -8,7 +8,7 @@
 
 ### Connect with me:
 [<a href="https://youtube.com" alt="youtube" target="_blank" ref="noreferer"><img align="left" alt="Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>][youtube]
-[<a href="https://instagram.com" alt="youtube" target="_blank" ref="noreferer"><img align="left" alt="Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>][youtube]
+[<a href="https://instagram.com/mathieumedia.official" alt="instagram" target="_blank" ref="noreferer"><img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>][instagram]
 
 <br />
 <br />
