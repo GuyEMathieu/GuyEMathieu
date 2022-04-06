@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @GuyEMathieu
 - 👀 I’m currently working on
--     --- Appraiser Look up
+-     --- Zip Info
 - 🌱 I’m currently learning ...
 -     --- AWS Solution Architect Associate
+-     --- Security +
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... mathieumedia2@gmail.com
 
