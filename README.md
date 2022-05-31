@@ -8,7 +8,7 @@
 - 📫 How to reach me ... mathieumedia2@gmail.com
 
 ### Connect with me:
-[<a href="https://www.youtube.com/channel/UC5gj5asN6F6MmA2qMcDpUlQ" alt="youtube" target="_blank" ref="noreferer"><img align="left" alt="Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>][youtube]
+[<a href="https://www.youtube.com/channel/mathieumedia" alt="youtube" target="_blank" ref="noreferer"><img align="left" alt="Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>][youtube]
 [<a href="https://instagram.com/mathieumedia.official" alt="instagram" target="_blank" ref="noreferer"><img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>][instagram]
 
 <br />
@@ -23,5 +23,5 @@ You can click the Preview link to take a look at your changes.
 
 
 
-[youtube]: https://www.youtube.com/channel/UC5gj5asN6F6MmA2qMcDpUlQ
+[youtube]: https://www.youtube.com/channel/mathieumedia
 [instagram]: https://www.instagram.com/mathieumedia.official/
