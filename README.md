@@ -17,7 +17,7 @@
 GuyEMathieu/GuyEMathieu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<p><img align="center" src="http://github-readme-stats.vercel.app/api/top-langs?username=guyemathieu&show_icons=true&locale=en&layount=compact&theme=gotham" /> </p>
+<p><img align="center" src="http://github-readme-stats.vercel.app/api/top-langs?username=mathieumedia&show_icons=true&locale=en&layount=compact&theme=gotham" /> </p>
 
 <p><img align="center" src="http://github-readme-stats.vercel.app/api?username=mathieumedia&show_icons=true&theme=gotham" /> </p>
 
